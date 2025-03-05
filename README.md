@@ -1,5 +1,5 @@
 # Cursed LEGO instructions 
-The aim of this project was to generate an instruction for a LEGO set.
+The aim of this project was to generate instructions for a LEGO set.
 The set is a mosaic consisting of a single 32x32 base plate and a bunch of 1x1 plates in a 7 different colors.
 
 ## Pixelizing an image
